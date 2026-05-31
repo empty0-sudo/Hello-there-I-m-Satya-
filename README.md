@@ -1,2 +1,2 @@
-# Hello-there-I-m-Satya-
+# Hello there Im Satya 👋
 My personal GitHub profile README.
