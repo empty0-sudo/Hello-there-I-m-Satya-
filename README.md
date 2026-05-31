@@ -1,5 +1,4 @@
-# Hello there Im Satya 👋
-My personal GitHub profile README.
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+there,+I'm+Satya+!+%F0%9F%91%8B;Network+Engineering+Student;Tech+Writer+%26+AI+Enthusiast" alt="Typing SVG" />
 </h1>
@@ -10,15 +9,15 @@ My personal GitHub profile README.
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 🐈 Tentang Saya
 Selamat datang di ruang kerja digital saya! Saya adalah seorang penggiat teknologi dengan latar belakang pendidikan Teknik Komputer dan Jaringan (TKJ). Saya memiliki minat besar dalam membangun infrastruktur jaringan yang andal serta mengeksplorasi utilitas digital. 
 
 Selain dunia jaringan, saya juga memiliki pengalaman nyata di industri media digital sebagai Penulis Artikel, yang menggabungkan kemampuan teknis saya dengan komunikasi tertulis yang efektif.
 
 - 🔭 **Fokus saat ini:** Konfigurasi *routing protocol* (OSPF & EIGRP) menggunakan Cisco Packet Tracer.
-- ✍️ **Eksplorasi lainnya:** *Tools* AI (Gemini, Perplexity), *game automation* (Roblox), dan *cloud utilities*.
+- ✍️ **Eksplorasi lainnya:** *Tools* AI (Gemini,ChatGPT,Claude).
 - 💬 **Tanya saya tentang:** *Network troubleshooting*, penulisan konten/artikel, atau teknologi digital.
-- 📫 **Hubungi saya:** [Masukkan Email atau Link LinkedIn Anda di sini]
+- 📫 **Hubungi saya:** [tryxy7a@gmail.com]
 
 ---
 
